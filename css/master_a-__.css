@@ -43,8 +43,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: maven-pro, sans-serif;
 	font-weight: 500;
 }
@@ -62,8 +62,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: maven-pro, sans-serif;
 	font-weight: 500;
 }
@@ -81,8 +81,65 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 500;
+}
+
+#u3217
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	border-width: 0px 0px 1px;
+}
+
+#u3218-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 500;
+}
+
+#u3370
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	border-width: 0px 0px 1px;
+}
+
+#u3371-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 500;
+}
+
+#u3919
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	border-width: 0px 0px 1px;
+}
+
+#u3920-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
 	font-family: maven-pro, sans-serif;
 	font-weight: 500;
 }
@@ -95,7 +152,7 @@
 	border-width: 0px 0px 1px;
 }
 
-#u899.MuseMenuActive,#u958.MuseMenuActive,#u2410.MuseMenuActive,#u2570.MuseMenuActive
+#u899.MuseMenuActive,#u958.MuseMenuActive,#u2410.MuseMenuActive,#u3217.MuseMenuActive,#u3370.MuseMenuActive,#u3919.MuseMenuActive,#u2570.MuseMenuActive
 {
 	border-color: #37C5C5;
 	background-color: transparent;
@@ -106,13 +163,13 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	text-align: center;
 	color: #000000;
+	text-align: center;
 	font-family: maven-pro, sans-serif;
 	font-weight: 500;
 }
 
-#u899.MuseMenuActive #u902-4 p,#u958.MuseMenuActive #u960-4 p,#u2410.MuseMenuActive #u2412-4 p,#u2570.MuseMenuActive #u2571-4 p
+#u899.MuseMenuActive #u902-4 p,#u958.MuseMenuActive #u960-4 p,#u2410.MuseMenuActive #u2412-4 p,#u3217.MuseMenuActive #u3218-4 p,#u3370.MuseMenuActive #u3371-4 p,#u3919.MuseMenuActive #u3920-4 p,#u2570.MuseMenuActive #u2571-4 p
 {
 	color: #37C5C5;
 	visibility: inherit;
@@ -149,7 +206,25 @@
 	background-color: #7F7F7F;
 }
 
-#u896,#u957,#u2409,#u2569,#u1053,#u1046
+#u3239
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #7F7F7F;
+	background-color: #FFFFFF;
+	border-radius: 2px 0px 0px 2px ;
+}
+
+#u3240-4
+{
+	background-color: transparent;
+	line-height: 19px;
+	color: #D5D5D5;
+	text-align: left;
+	font-size: 16px;
+}
+
+#u896,#u957,#u2409,#u3216,#u3367,#u3916,#u2569,#u3245,#u1053,#u1046
 {
 	background-color: transparent;
 }
@@ -171,10 +246,10 @@
 #u2445-4
 {
 	background-color: transparent;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 0px;
-	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 }
@@ -207,10 +282,10 @@
 #u2451-4
 {
 	background-color: transparent;
+	color: #000000;
 	text-align: center;
 	font-size: 14px;
 	letter-spacing: 0px;
-	color: #000000;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 }

@@ -127,6 +127,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://iamsunnyjai.github.io/test/images/search-icon-2.png</loc>
+    <lastmod>2016-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://iamsunnyjai.github.io/test/images/50x50.jpg</loc>
+    <lastmod>2016-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://iamsunnyjai.github.io/test/images/users6.png</loc>
+    <lastmod>2016-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://iamsunnyjai.github.io/test/images/trainingicon1.png</loc>
+    <lastmod>2016-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://iamsunnyjai.github.io/test/images/action_028-detail-more-info-others-128.png</loc>
+    <lastmod>2016-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://iamsunnyjai.github.io/test/index.html</loc>
     <lastmod>2016-06-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -146,6 +176,24 @@
   </url>
   <url>
     <loc>https://iamsunnyjai.github.io/test/event.html</loc>
+    <lastmod>2016-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://iamsunnyjai.github.io/test/forgotpw.html</loc>
+    <lastmod>2016-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://iamsunnyjai.github.io/test/search.html</loc>
+    <lastmod>2016-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://iamsunnyjai.github.io/test/advsearch.html</loc>
     <lastmod>2016-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
