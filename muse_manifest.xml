@@ -1,42 +1,53 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://iamsunnyjai.github.io/test" resolutions="1x" timestamp="1465898805111">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://iamsunnyjai.github.io/test" resolutions="1x" timestamp="1467175162288">
   <folder name="css">
     <file name="site_global.css" crc="4146561730"/>
-    <file name="master_a-__.css" crc="3882905884" ref="index:event:sign-up:sign-in:search:advsearch:forgotpw:studio:payment:done:confirm:message:messagec"/>
-    <file name="index.css" crc="4246226792" ref="index"/>
-    <file name="event.css" crc="3939007098" ref="event"/>
-    <file name="sign-up.css" crc="59728723" ref="sign-up"/>
-    <file name="sign-in.css" crc="4242727300" ref="sign-in"/>
-    <file name="search.css" crc="4137426630" ref="search"/>
-    <file name="advsearch.css" crc="58847723" ref="advsearch"/>
-    <file name="forgotpw.css" crc="3886493796" ref="forgotpw"/>
-    <file name="studio.css" crc="4286373579" ref="studio"/>
-    <file name="payment.css" crc="123564853" ref="payment"/>
-    <file name="done.css" crc="3981520779" ref="done"/>
-    <file name="confirm.css" crc="415507350" ref="confirm"/>
-    <file name="message.css" crc="159537102" ref="message"/>
-    <file name="messagec.css" crc="315072583" ref="messagec"/>
+    <file name="master_a-__.css" crc="452605011" ref="index:event:sign-up:sign-in:search:advsearch:forgotpw:studio:payment:done:confirm:message:messagec"/>
+    <file name="index.css" crc="524115381" ref="index"/>
+    <file name="event.css" crc="3861114782" ref="event"/>
+    <file name="sign-up.css" crc="33324628" ref="sign-up"/>
+    <file name="sign-in.css" crc="305914050" ref="sign-in"/>
+    <file name="search.css" crc="535126447" ref="search"/>
+    <file name="advsearch.css" crc="435436085" ref="advsearch"/>
+    <file name="forgotpw.css" crc="4260852357" ref="forgotpw"/>
+    <file name="studio.css" crc="4250255069" ref="studio"/>
+    <file name="payment.css" crc="4035457149" ref="payment"/>
+    <file name="done.css" crc="4148318690" ref="done"/>
+    <file name="confirm.css" crc="3980166904" ref="confirm"/>
+    <file name="message.css" crc="451491820" ref="message"/>
+    <file name="messagec.css" crc="4150788927" ref="messagec"/>
+    <file name="master_logedin.css" crc="3990310338" ref="setting:create-event:changepw:edit-event:edit-package:create-package:createpacsus:eventman:profile-setting:createeventsus"/>
+    <file name="setting.css" crc="516409869" ref="setting"/>
+    <file name="create-event.css" crc="188161076" ref="create-event"/>
+    <file name="changepw.css" crc="4086288529" ref="changepw"/>
+    <file name="edit-event.css" crc="4110432334" ref="edit-event"/>
+    <file name="edit-package.css" crc="3960225981" ref="edit-package"/>
+    <file name="create-package.css" crc="3903794503" ref="create-package"/>
+    <file name="createpacsus.css" crc="107480940" ref="createpacsus"/>
+    <file name="eventman.css" crc="427249311" ref="eventman"/>
+    <file name="profile-setting.css" crc="171771023" ref="profile-setting"/>
+    <file name="createeventsus.css" crc="4048013253" ref="createeventsus"/>
   </folder>
   <folder name="assets">
     <file name="mobile-menu.mulib" crc="95576157" seo="true" mt="1465105191000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="museutils.js" crc="3790713428" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="whatinput.js" crc="84559013" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="pie.js" crc="3827607177" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="jquery.musemenu.js" crc="238543590" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="webpro.js" crc="329496574" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="musewpslideshow.js" crc="394033048" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="touchswipe.js" crc="497316881" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="museutils.js" crc="3790713428" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="whatinput.js" crc="84559013" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="pie.js" crc="3827607177" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="webpro.js" crc="329496574" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
     <file name="musewpdisclosure.js" crc="4234230767" ref="studio"/>
   </folder>
   <folder name="images">
-    <file name="menu-alt-256.png" crc="191789486" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
+    <file name="menu-alt-256.png" crc="191789486" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
     <file name="parachute man-crop-u1784.jpg" crc="465674190" seo="true" ref="index"/>
-    <file name="pasted image 196x34.jpg" crc="192345287" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
+    <file name="pasted image 196x34.jpg" crc="192345287" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
     <file name="u1041-6.png" crc="4005463604" ref="index"/>
     <file name="tourw.png" crc="3867575524" seo="true" ref="index"/>
     <file name="u1646-6.png" crc="331912231" ref="index"/>
@@ -51,9 +62,9 @@
     <file name="u1968.png" crc="4228866335" ref="index"/>
     <file name="u1967.png" crc="4228866335" ref="index"/>
     <file name="facebook-symbol_318-37686.jpg" crc="80585928" seo="true" ref="index:sign-up:event"/>
-    <file name="logo.png" crc="3880764376" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
+    <file name="logo.png" crc="3880764376" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
     <file name="u2150-4.png" crc="4241352852" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="blank.gif" crc="4208392903" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
+    <file name="blank.gif" crc="4208392903" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
     <file name="u2148.png" crc="36806736" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
     <file name="u2148-r.png" crc="71618683" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
     <file name="u2144-6.png" crc="4119834092" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
@@ -83,7 +94,7 @@
     <file name="view_details.png" crc="105428746" seo="true" ref="event"/>
     <file name="map-512.png" crc="76774310" seo="true" ref="event"/>
     <file name="ktfr7u8.png" crc="4275530758" seo="true" ref="event"/>
-    <file name="50x50-crop-u2812.jpg" crc="324863333" ref="event"/>
+    <file name="50x50-crop-u2812.jpg" crc="44554468" ref="event"/>
     <file name="tour.png" crc="445886560" seo="true" ref="event:search:advsearch:confirm:done"/>
     <file name="u2967.png" crc="3893802489" ref="event"/>
     <file name="u2967-r.png" crc="3893802489" ref="event"/>
@@ -92,7 +103,7 @@
     <file name="u3139-4.png" crc="3889031531" ref="event"/>
     <file name="u3160-4.png" crc="3888417856" ref="event"/>
     <file name="maps-500x390.jpg" crc="3860587774" seo="true" ref="event"/>
-    <file name="search-icon-2.png" crc="3981714633" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
+    <file name="search-icon-2.png" crc="3981714633" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
     <file name="u4114-4.png" crc="369695949" ref="event"/>
     <file name="u4102-4.png" crc="3770187656" ref="event"/>
     <file name="u4105-4.png" crc="4008976782" ref="event"/>
@@ -127,7 +138,7 @@
     <file name="u4275-4.png" crc="3842704968" ref="event"/>
     <file name="u4289-4.png" crc="127670555" ref="event"/>
     <file name="u3204-6.png" crc="4168267580" ref="forgotpw"/>
-    <file name="50x50.jpg" crc="3989042765" seo="true" ref="search"/>
+    <file name="50x50.jpg" crc="3989042765" seo="true" ref="search:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
     <file name="u3493.png" crc="69042491" ref="search"/>
     <file name="u3493-r.png" crc="532324188" ref="search"/>
     <file name="u3585.png" crc="69042491" ref="search"/>
@@ -228,18 +239,46 @@
     <file name="u8097-r.png" crc="276854038" ref="done"/>
     <file name="scroll.jpg" crc="4141486713" seo="true" ref="messagec"/>
     <file name="ic_arrow_back_48px-128.png" crc="55793115" seo="true" ref="messagec"/>
+    <file name="u12815-4.png" crc="4150377082" ref="confirm"/>
+    <file name="square-facebook-128.png" crc="354847672" seo="true" ref="setting:profile-setting"/>
+    <file name="2000px-google_plus_iconsvg.png" crc="3970302276" seo="true" ref="setting:profile-setting"/>
+    <file name="flickr-logo-png-0.png" crc="3907431861" seo="true" ref="setting:profile-setting"/>
+    <file name="instagram_app_large_may2016_200.png" crc="4071539501" seo="true" ref="setting:profile-setting"/>
+    <file name="u9224-4.png" crc="4241352852" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="u9226.png" crc="36806736" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="u9226-r.png" crc="71618683" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="u9222-6.png" crc="4119834092" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="u9225-4.png" crc="4002372682" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="u9227.png" crc="98326267" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="u9227-r.png" crc="166174457" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="u9228.png" crc="23504871" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="u9228-r.png" crc="29952680" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="u9221.png" crc="4029653277" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="u9221-r.png" crc="460202240" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
+    <file name="420x200.jpg" crc="4167260921" seo="true" ref="profile-setting:create-event:edit-event"/>
+    <file name="dsc09615.jpg" crc="4009333427" seo="true" ref="eventman"/>
   </folder>
-  <file name="index.html" crc="491928006" seo="true" mt="1465898383227" redirect="true"/>
-  <file name="sign-up.html" crc="4091549767" seo="true" mt="1465898383227" redirect="true"/>
-  <file name="sign-in.html" crc="30326455" seo="true" mt="1465898383227" redirect="true"/>
-  <file name="event.html" crc="4249965929" seo="true" mt="1465898383227" redirect="true"/>
-  <file name="forgotpw.html" crc="131636826" seo="true" mt="1465898383227" redirect="true"/>
-  <file name="search.html" crc="3808941731" seo="true" mt="1465898383227" redirect="true"/>
-  <file name="advsearch.html" crc="356052139" seo="true" mt="1465898383227" redirect="true"/>
-  <file name="studio.html" crc="4209752606" seo="true" mt="1465898747885" redirect="true"/>
-  <file name="confirm.html" crc="497520889" seo="true" mt="1465898383227" redirect="true"/>
-  <file name="payment.html" crc="169846163" seo="true" mt="1465898383227" redirect="true"/>
-  <file name="done.html" crc="3984763068" seo="true" mt="1465898383227" redirect="true"/>
-  <file name="message.html" crc="4135208152" seo="true" mt="1465898554528" redirect="true"/>
-  <file name="messagec.html" crc="4265831694" seo="true" mt="1465898652763" redirect="true"/>
+  <file name="index.html" crc="394754692" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="sign-up.html" crc="3879823563" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="sign-in.html" crc="4038267838" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="event.html" crc="3808748121" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="forgotpw.html" crc="365496750" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="search.html" crc="3807023799" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="advsearch.html" crc="4260355640" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="studio.html" crc="3827793231" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="confirm.html" crc="126941319" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="payment.html" crc="74280619" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="done.html" crc="103578519" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="message.html" crc="4087882357" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="messagec.html" crc="4155657291" seo="true" mt="1467175099291" redirect="true"/>
+  <file name="setting.html" crc="9064460" seo="true" mt="1467175099096" redirect="true"/>
+  <file name="changepw.html" crc="50501616" seo="true" mt="1467175099096" redirect="true"/>
+  <file name="profile-setting.html" crc="3895283692" seo="true" mt="1467175099096" redirect="true"/>
+  <file name="create-event.html" crc="4120845821" seo="true" mt="1467175100173" redirect="true"/>
+  <file name="create-package.html" crc="3925268868" seo="true" mt="1467175100164" redirect="true"/>
+  <file name="eventman.html" crc="4053194976" seo="true" mt="1467175100169" redirect="true"/>
+  <file name="edit-event.html" crc="3807776943" seo="true" mt="1467175100166" redirect="true"/>
+  <file name="edit-package.html" crc="4006490286" seo="true" mt="1467175100168" redirect="true"/>
+  <file name="createeventsus.html" crc="4140725501" seo="true" mt="1467175100171" redirect="true"/>
+  <file name="createpacsus.html" crc="4265283678" seo="true" mt="1467175100175" redirect="true"/>
 </manifest>
