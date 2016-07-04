@@ -146,26 +146,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.Sub-Heading
-{
-	color: #4F4F4F;
-	font-family: Montserrat Semi Bold;
-	font-size: 18px;
-	line-height: 18px;
-	text-align: left;
-	padding: 0px;
-}
-
-.Body
-{
-	color: #242424;
-	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
-	font-size: 14px;
-	line-height: 20px;
-	text-align: left;
-	padding: 0px;
-}
-
 .Title
 {
 	color: #000000;
@@ -175,14 +155,13 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.review
+.Sub-Heading
 {
-	color: #000000;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-size: 15px;
-	font-style: italic;
-	line-height: 26px;
-	text-align: center;
+	color: #4F4F4F;
+	font-family: Montserrat Semi Bold;
+	font-size: 18px;
+	line-height: 18px;
+	text-align: left;
 	padding: 0px;
 }
 

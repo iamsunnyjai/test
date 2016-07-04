@@ -1,284 +1,232 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://iamsunnyjai.github.io/test" resolutions="1x" timestamp="1467175162288">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1467627728410">
   <folder name="css">
-    <file name="site_global.css" crc="4146561730"/>
-    <file name="master_a-__.css" crc="452605011" ref="index:event:sign-up:sign-in:search:advsearch:forgotpw:studio:payment:done:confirm:message:messagec"/>
-    <file name="index.css" crc="524115381" ref="index"/>
-    <file name="event.css" crc="3861114782" ref="event"/>
-    <file name="sign-up.css" crc="33324628" ref="sign-up"/>
-    <file name="sign-in.css" crc="305914050" ref="sign-in"/>
-    <file name="search.css" crc="535126447" ref="search"/>
-    <file name="advsearch.css" crc="435436085" ref="advsearch"/>
-    <file name="forgotpw.css" crc="4260852357" ref="forgotpw"/>
-    <file name="studio.css" crc="4250255069" ref="studio"/>
-    <file name="payment.css" crc="4035457149" ref="payment"/>
-    <file name="done.css" crc="4148318690" ref="done"/>
-    <file name="confirm.css" crc="3980166904" ref="confirm"/>
-    <file name="message.css" crc="451491820" ref="message"/>
-    <file name="messagec.css" crc="4150788927" ref="messagec"/>
-    <file name="master_logedin.css" crc="3990310338" ref="setting:create-event:changepw:edit-event:edit-package:create-package:createpacsus:eventman:profile-setting:createeventsus"/>
-    <file name="setting.css" crc="516409869" ref="setting"/>
-    <file name="create-event.css" crc="188161076" ref="create-event"/>
-    <file name="changepw.css" crc="4086288529" ref="changepw"/>
-    <file name="edit-event.css" crc="4110432334" ref="edit-event"/>
-    <file name="edit-package.css" crc="3960225981" ref="edit-package"/>
-    <file name="create-package.css" crc="3903794503" ref="create-package"/>
-    <file name="createpacsus.css" crc="107480940" ref="createpacsus"/>
-    <file name="eventman.css" crc="427249311" ref="eventman"/>
-    <file name="profile-setting.css" crc="171771023" ref="profile-setting"/>
-    <file name="createeventsus.css" crc="4048013253" ref="createeventsus"/>
+    <file name="site_global.css" crc="265789421"/>
+    <file name="icon.css" crc="4084255672" ref="icon"/>
+    <file name="p-index.css" crc="3976351376" ref="p-index"/>
+    <file name="por.css" crc="125599996" ref="por"/>
+    <file name="forget-pw.css" crc="4246696748" ref="forget-pw"/>
+    <file name="p-noti.css" crc="16964857" ref="p-noti"/>
+    <file name="forget-pw-s.css" crc="4225389941" ref="forget-pw-s"/>
+    <file name="index.css" crc="4180897332" ref="index"/>
+    <file name="sign-up.css" crc="3898109962" ref="sign-up"/>
+    <file name="p-rec.css" crc="4157304112" ref="p-rec"/>
+    <file name="p-msg.css" crc="327179814" ref="p-msg"/>
+    <file name="sms.css" crc="4004761722" ref="sms"/>
+    <file name="sign-in.css" crc="492899060" ref="sign-in"/>
+    <file name="p-rec-info.css" crc="218369638" ref="p-rec-info"/>
+    <file name="c-rec.css" crc="57824508" ref="c-rec"/>
+    <file name="c-msg.css" crc="86245910" ref="c-msg"/>
+    <file name="c-noti.css" crc="4191508222" ref="c-noti"/>
+    <file name="c-index-sug.css" crc="3764884264" ref="c-index-sug"/>
+    <file name="c-index.css" crc="148568307" ref="c-index"/>
+    <file name="c-msg-rm.css" crc="465639803" ref="c-msg-rm"/>
+    <file name="c-index-list.css" crc="4109219716" ref="c-index-list"/>
+    <file name="p-msg-rm.css" crc="518855264" ref="p-msg-rm"/>
+    <file name="c-rec-info.css" crc="3994033082" ref="c-rec-info"/>
   </folder>
   <folder name="assets">
-    <file name="mobile-menu.mulib" crc="95576157" seo="true" mt="1465105191000"/>
+    <file name="video.mp4" crc="3822992958" seo="true" mt="1465216213000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="museutils.js" crc="3790713428" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="whatinput.js" crc="84559013" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="pie.js" crc="3827607177" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="jquery.musemenu.js" crc="238543590" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="webpro.js" crc="329496574" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="musewpslideshow.js" crc="394033048" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="touchswipe.js" crc="497316881" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="musewpdisclosure.js" crc="4234230767" ref="studio"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:sign-in:sign-up:forget-pw:p-index:p-rec:p-msg:p-noti:forget-pw-s:sms:icon:por:p-rec-info:p-msg-rm:c-rec:c-rec-info:c-msg:c-msg-rm:c-noti:c-index:c-index-list:c-index-sug"/>
+    <file name="museutils.js" crc="3790713428" ref="index:sign-in:sign-up:forget-pw:p-index:p-rec:p-msg:p-noti:forget-pw-s:sms:icon:por:p-rec-info:p-msg-rm:c-rec:c-rec-info:c-msg:c-msg-rm:c-noti:c-index:c-index-list:c-index-sug"/>
+    <file name="whatinput.js" crc="84559013" ref="index:sign-in:sign-up:forget-pw:p-index:p-rec:p-msg:p-noti:forget-pw-s:sms:icon:por:p-rec-info:p-msg-rm:c-rec:c-rec-info:c-msg:c-msg-rm:c-noti:c-index:c-index-list:c-index-sug"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:sign-in:sign-up:forget-pw:p-index:p-rec:p-msg:p-noti:forget-pw-s:sms:icon:por:p-rec-info:p-msg-rm:c-rec:c-rec-info:c-msg:c-msg-rm:c-noti:c-index:c-index-list:c-index-sug"/>
+    <file name="pie.js" crc="3827607177" ref="p-msg-rm:c-msg-rm:c-index-list:c-index-sug"/>
+    <file name="webpro.js" crc="329496574" ref="c-index-list:c-index-sug"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="c-index-list:c-index-sug"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="c-index-list:c-index-sug"/>
+    <file name="touchswipe.js" crc="497316881" ref="c-index-list:c-index-sug"/>
   </folder>
   <folder name="images">
-    <file name="menu-alt-256.png" crc="191789486" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="parachute man-crop-u1784.jpg" crc="465674190" seo="true" ref="index"/>
-    <file name="pasted image 196x34.jpg" crc="192345287" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u1041-6.png" crc="4005463604" ref="index"/>
-    <file name="tourw.png" crc="3867575524" seo="true" ref="index"/>
-    <file name="u1646-6.png" crc="331912231" ref="index"/>
-    <file name="propec-business-improvement-coaching-for-improvement-workshop1.jpg" crc="7804995" seo="true" ref="index"/>
-    <file name="workshop.png" crc="3857642084" seo="true" ref="index"/>
-    <file name="u1169-6.png" crc="291024052" ref="index"/>
-    <file name="tours-to-kerala-21.jpg" crc="3908190773" seo="true" ref="index"/>
-    <file name="u1430-6.png" crc="4020321296" ref="index"/>
-    <file name="from-amateur-to-professional-photographer-1-1440x564_c.jpg" crc="128075021" seo="true" ref="index:studio"/>
-    <file name="meetup.png" crc="3948746006" seo="true" ref="index:studio"/>
-    <file name="u1797-8.png" crc="3858191285" ref="index"/>
-    <file name="u1968.png" crc="4228866335" ref="index"/>
-    <file name="u1967.png" crc="4228866335" ref="index"/>
-    <file name="facebook-symbol_318-37686.jpg" crc="80585928" seo="true" ref="index:sign-up:event"/>
-    <file name="logo.png" crc="3880764376" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u2150-4.png" crc="4241352852" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="blank.gif" crc="4208392903" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u2148.png" crc="36806736" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="u2148-r.png" crc="71618683" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="u2144-6.png" crc="4119834092" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="u2149-4.png" crc="4002372682" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="u2147.png" crc="98326267" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="u2147-r.png" crc="166174457" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="u2146.png" crc="23504871" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="u2146-r.png" crc="29952680" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="u2145.png" crc="4029653277" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="u2145-r.png" crc="460202240" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec"/>
-    <file name="u2268-8.png" crc="3858191285" ref="sign-up"/>
-    <file name="u2215.png" crc="4228866335" ref="sign-up"/>
-    <file name="u2214.png" crc="4228866335" ref="sign-up"/>
-    <file name="u2406-6.png" crc="238027085" ref="sign-in"/>
-    <file name="u2397.png" crc="4228866335" ref="sign-in"/>
-    <file name="u2399.png" crc="4228866335" ref="sign-in"/>
-    <file name="dsc05935-crop-u2602.jpg" crc="3981699769" ref="event"/>
-    <file name="dsc05942-crop-u2598.jpg" crc="4201562570" ref="event"/>
-    <file name="dsc05963-crop-u2600.jpg" crc="4063548524" ref="event"/>
-    <file name="dsc05935.jpg" crc="3780541253" seo="true" ref="event:search"/>
-    <file name="dsc05942.jpg" crc="3865825423" seo="true" ref="event:search"/>
-    <file name="dsc05963.jpg" crc="368772289" seo="true" ref="event:search"/>
-    <file name="loading.gif" crc="3815509949" ref="event:search"/>
-    <file name="checkmark-circle.svg" crc="3860695028" ref="event"/>
-    <file name="checkmark-circle_poster_.png" crc="142773464" ref="event"/>
-    <file name="u2960-4.png" crc="156433034" ref="event"/>
-    <file name="view_details.png" crc="105428746" seo="true" ref="event"/>
-    <file name="map-512.png" crc="76774310" seo="true" ref="event"/>
-    <file name="ktfr7u8.png" crc="4275530758" seo="true" ref="event"/>
-    <file name="50x50-crop-u2812.jpg" crc="44554468" ref="event"/>
-    <file name="tour.png" crc="445886560" seo="true" ref="event:search:advsearch:confirm:done"/>
-    <file name="u2967.png" crc="3893802489" ref="event"/>
-    <file name="u2967-r.png" crc="3893802489" ref="event"/>
-    <file name="u3091-4.png" crc="4240696750" ref="event"/>
-    <file name="u3116-4.png" crc="4052980291" ref="event"/>
-    <file name="u3139-4.png" crc="3889031531" ref="event"/>
-    <file name="u3160-4.png" crc="3888417856" ref="event"/>
-    <file name="maps-500x390.jpg" crc="3860587774" seo="true" ref="event"/>
-    <file name="search-icon-2.png" crc="3981714633" seo="true" ref="index:sign-up:sign-in:event:forgotpw:search:advsearch:studio:confirm:payment:done:message:messagec:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u4114-4.png" crc="369695949" ref="event"/>
-    <file name="u4102-4.png" crc="3770187656" ref="event"/>
-    <file name="u4105-4.png" crc="4008976782" ref="event"/>
-    <file name="u4111-4.png" crc="3842704968" ref="event"/>
-    <file name="u4121-4.png" crc="4101021696" ref="event"/>
-    <file name="u4122-4.png" crc="4008976782" ref="event"/>
-    <file name="u4123-4.png" crc="3842704968" ref="event"/>
-    <file name="u4137-4.png" crc="305539254" ref="event"/>
-    <file name="u4138-4.png" crc="4008976782" ref="event"/>
-    <file name="u4136-4.png" crc="3842704968" ref="event"/>
-    <file name="u4153-4.png" crc="127670555" ref="event"/>
-    <file name="u4188-4.png" crc="369695949" ref="event"/>
-    <file name="u4199-4.png" crc="3770187656" ref="event"/>
-    <file name="u4200-4.png" crc="4008976782" ref="event"/>
-    <file name="u4201-4.png" crc="3842704968" ref="event"/>
-    <file name="u4182-4.png" crc="4101021696" ref="event"/>
-    <file name="u4184-4.png" crc="4008976782" ref="event"/>
-    <file name="u4183-4.png" crc="3842704968" ref="event"/>
-    <file name="u4175-4.png" crc="305539254" ref="event"/>
-    <file name="u4174-4.png" crc="4008976782" ref="event"/>
-    <file name="u4176-4.png" crc="3842704968" ref="event"/>
-    <file name="u4190-4.png" crc="127670555" ref="event"/>
-    <file name="u4287-4.png" crc="369695949" ref="event"/>
-    <file name="u4298-4.png" crc="3770187656" ref="event"/>
-    <file name="u4299-4.png" crc="4008976782" ref="event"/>
-    <file name="u4300-4.png" crc="3842704968" ref="event"/>
-    <file name="u4281-4.png" crc="4101021696" ref="event"/>
-    <file name="u4283-4.png" crc="4008976782" ref="event"/>
-    <file name="u4282-4.png" crc="3842704968" ref="event"/>
-    <file name="u4274-4.png" crc="305539254" ref="event"/>
-    <file name="u4273-4.png" crc="4008976782" ref="event"/>
-    <file name="u4275-4.png" crc="3842704968" ref="event"/>
-    <file name="u4289-4.png" crc="127670555" ref="event"/>
-    <file name="u3204-6.png" crc="4168267580" ref="forgotpw"/>
-    <file name="50x50.jpg" crc="3989042765" seo="true" ref="search:setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u3493.png" crc="69042491" ref="search"/>
-    <file name="u3493-r.png" crc="532324188" ref="search"/>
-    <file name="u3585.png" crc="69042491" ref="search"/>
-    <file name="u3585-r.png" crc="532324188" ref="search"/>
-    <file name="u3735.png" crc="69042491" ref="search"/>
-    <file name="u3735-r.png" crc="532324188" ref="search"/>
-    <file name="u3869-4.png" crc="4223633866" ref="search"/>
-    <file name="u3546.png" crc="3893802489" ref="search"/>
-    <file name="u3546-r.png" crc="3893802489" ref="search"/>
-    <file name="u3599.png" crc="3893802489" ref="search"/>
-    <file name="u3599-r.png" crc="3893802489" ref="search"/>
-    <file name="u3749.png" crc="3893802489" ref="search"/>
-    <file name="u3749-r.png" crc="3893802489" ref="search"/>
-    <file name="u3893-6.png" crc="4243066276" ref="advsearch"/>
-    <file name="u4054-4.png" crc="4064671182" ref="advsearch"/>
-    <file name="u3939-4.png" crc="113424515" ref="advsearch"/>
-    <file name="u3961-4.png" crc="4173915342" ref="advsearch"/>
-    <file name="u3981-4.png" crc="187702398" ref="advsearch"/>
-    <file name="users6.png" crc="3871438642" seo="true" ref="advsearch"/>
-    <file name="trainingicon1.png" crc="340264133" seo="true" ref="advsearch"/>
-    <file name="action_028-detail-more-info-others-128.png" crc="333097456" seo="true" ref="advsearch"/>
-    <file name="woman-crop-u4423.jpg" crc="523208331" ref="studio"/>
-    <file name="hk flag-crop-u4905.jpg" crc="3964159275" ref="studio"/>
-    <file name="pasted image 217x206.jpg" crc="3813130787" seo="true" ref="studio"/>
-    <file name="az-logo-blue-circle-only.svg" crc="384478195" ref="index"/>
-    <file name="az-logo-blue-circle-only_poster_.png" crc="4236621998" ref="index"/>
-    <file name="u2826_states.png" crc="69042491" ref="event"/>
-    <file name="u2826_states-r.png" crc="532324188" ref="event"/>
-    <file name="dsc09346_2.jpg" crc="4236869623" seo="true" ref="studio"/>
-    <file name="dsc05658.jpg" crc="410771218" seo="true" ref="studio"/>
-    <file name="psx_20160511_205230.jpg" crc="3812003224" seo="true" ref="studio"/>
-    <file name="1 (1).jpg" crc="343372679" seo="true" ref="studio"/>
-    <file name="dsc00534.jpg" crc="352632454" seo="true" ref="studio"/>
-    <file name="dsc01021.jpg" crc="162991133" seo="true" ref="studio"/>
-    <file name="psx_20160609_195515.jpg" crc="466763083" seo="true" ref="studio"/>
-    <file name="psx_20160511_135458.jpg" crc="119189462" seo="true" ref="studio"/>
-    <file name="psx_20160601_221337.jpg" crc="3776598940" seo="true" ref="studio"/>
-    <file name="50x50-crop-u6544.jpg" crc="324863333" ref="studio"/>
-    <file name="50x50-crop-u6793.jpg" crc="324863333" ref="studio"/>
-    <file name="50x50-crop-u6818.jpg" crc="324863333" ref="studio"/>
-    <file name="50x50-crop-u6841.jpg" crc="324863333" ref="studio"/>
-    <file name="50x50-crop-u6866.jpg" crc="324863333" ref="studio"/>
-    <file name="50x50-crop-u6891.jpg" crc="324863333" ref="studio"/>
-    <file name="50x50-crop-u6916.jpg" crc="324863333" ref="studio"/>
-    <file name="u7203-4.png" crc="4159898534" ref="confirm"/>
-    <file name="u7204-4.png" crc="3888929433" ref="confirm"/>
-    <file name="u7205-4.png" crc="3767372698" ref="confirm"/>
-    <file name="u7210-4.png" crc="63527769" ref="confirm"/>
-    <file name="50x50-crop-u7475.jpg" crc="117261423" ref="confirm"/>
-    <file name="u7491_states.png" crc="247599604" ref="confirm"/>
-    <file name="u7491_states-r.png" crc="3761464000" ref="confirm"/>
-    <file name="u7637-4.png" crc="257834626" ref="confirm"/>
-    <file name="u7372-4.png" crc="432463267" ref="confirm"/>
-    <file name="u7370-4.png" crc="475144330" ref="confirm"/>
-    <file name="u7371-4.png" crc="129047196" ref="confirm"/>
-    <file name="u7383-4.png" crc="468699216" ref="confirm"/>
-    <file name="u7382-4.png" crc="475144330" ref="confirm"/>
-    <file name="u7381-4.png" crc="129047196" ref="confirm"/>
-    <file name="u7387-4.png" crc="3881758003" ref="confirm"/>
-    <file name="u7386-4.png" crc="475144330" ref="confirm"/>
-    <file name="u7385-4.png" crc="129047196" ref="confirm"/>
-    <file name="u7221-4.png" crc="217666260" ref="confirm"/>
-    <file name="u7231-4.png" crc="4283162182" ref="confirm"/>
-    <file name="u8038.png" crc="3949724" ref="confirm"/>
-    <file name="u8038-r.png" crc="4105412326" ref="confirm"/>
-    <file name="u8036.png" crc="3989380457" ref="confirm"/>
-    <file name="u8036-r.png" crc="4040005049" ref="confirm"/>
-    <file name="u7751-4.png" crc="4159898534" ref="payment"/>
-    <file name="u7749-4.png" crc="3888929433" ref="payment"/>
-    <file name="u7750-4.png" crc="3767372698" ref="payment"/>
-    <file name="u7805-4.png" crc="217666260" ref="payment"/>
-    <file name="u7806-4.png" crc="4283162182" ref="payment"/>
-    <file name="u7808.png" crc="4256793153" ref="payment"/>
-    <file name="u7808-r.png" crc="310976520" ref="payment"/>
-    <file name="u8024.png" crc="3949724" ref="payment"/>
-    <file name="u8024-r.png" crc="4105412326" ref="payment"/>
-    <file name="u7916-4.png" crc="4159898534" ref="done"/>
-    <file name="u7915-4.png" crc="3888929433" ref="done"/>
-    <file name="u7853-4.png" crc="3767372698" ref="done"/>
-    <file name="u8049-4.png" crc="237665699" ref="done"/>
-    <file name="u7887-4.png" crc="3869376971" ref="done"/>
-    <file name="50x50-crop-u7889.jpg" crc="117261423" ref="done"/>
-    <file name="u7900_states.png" crc="247599604" ref="done"/>
-    <file name="u7900_states-r.png" crc="3761464000" ref="done"/>
-    <file name="u7858-4.png" crc="257834626" ref="done"/>
-    <file name="u7865-4.png" crc="432463267" ref="done"/>
-    <file name="u7866-4.png" crc="475144330" ref="done"/>
-    <file name="u7867-4.png" crc="129047196" ref="done"/>
-    <file name="u7871-4.png" crc="468699216" ref="done"/>
-    <file name="u7872-4.png" crc="475144330" ref="done"/>
-    <file name="u7870-4.png" crc="129047196" ref="done"/>
-    <file name="u7879-4.png" crc="3881758003" ref="done"/>
-    <file name="u7880-4.png" crc="475144330" ref="done"/>
-    <file name="u7881-4.png" crc="129047196" ref="done"/>
-    <file name="u7914.png" crc="4090979624" ref="done"/>
-    <file name="u7914-r.png" crc="4288079031" ref="done"/>
-    <file name="u8097.png" crc="75853494" ref="done"/>
-    <file name="u8097-r.png" crc="276854038" ref="done"/>
-    <file name="scroll.jpg" crc="4141486713" seo="true" ref="messagec"/>
-    <file name="ic_arrow_back_48px-128.png" crc="55793115" seo="true" ref="messagec"/>
-    <file name="u12815-4.png" crc="4150377082" ref="confirm"/>
-    <file name="square-facebook-128.png" crc="354847672" seo="true" ref="setting:profile-setting"/>
-    <file name="2000px-google_plus_iconsvg.png" crc="3970302276" seo="true" ref="setting:profile-setting"/>
-    <file name="flickr-logo-png-0.png" crc="3907431861" seo="true" ref="setting:profile-setting"/>
-    <file name="instagram_app_large_may2016_200.png" crc="4071539501" seo="true" ref="setting:profile-setting"/>
-    <file name="u9224-4.png" crc="4241352852" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u9226.png" crc="36806736" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u9226-r.png" crc="71618683" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u9222-6.png" crc="4119834092" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u9225-4.png" crc="4002372682" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u9227.png" crc="98326267" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u9227-r.png" crc="166174457" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u9228.png" crc="23504871" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u9228-r.png" crc="29952680" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u9221.png" crc="4029653277" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="u9221-r.png" crc="460202240" ref="setting:changepw:profile-setting:create-event:create-package:eventman:edit-event:edit-package:createeventsus:createpacsus"/>
-    <file name="420x200.jpg" crc="4167260921" seo="true" ref="profile-setting:create-event:edit-event"/>
-    <file name="dsc09615.jpg" crc="4009333427" seo="true" ref="eventman"/>
+    <file name="icon.png" crc="3826519834" seo="true" ref="index"/>
+    <file name="p.png" crc="37515952" seo="true" ref="index"/>
+    <file name="u.png" crc="3932055662" seo="true" ref="index"/>
+    <file name="ic_arrow_back_48px-128 (1).png" crc="191728964" seo="true" ref="sign-in:sign-up:forget-pw:forget-pw-s:sms:icon:por:p-msg-rm:c-msg-rm"/>
+    <file name="t1u5sufo8exxxxxxxx_!!2-item_pic.jpg" crc="3938515646" seo="true" ref="sign-up:sms"/>
+    <file name="cell-2-2-480.png" crc="4123552894" seo="true" ref="p-index:p-rec:p-msg:p-noti:p-rec-info:p-msg-rm:c-rec:c-rec-info:c-msg:c-msg-rm:c-noti:c-index:c-index-list:c-index-sug"/>
+    <file name="130779-200.png" crc="110696063" seo="true" ref="p-index:p-rec:p-msg:p-noti:p-rec-info:p-msg-rm"/>
+    <file name="iconnn.png" crc="309608024" seo="true" ref="p-index:p-rec:p-msg:p-noti:p-rec-info:p-msg-rm:c-rec:c-rec-info:c-msg:c-msg-rm:c-noti:c-index:c-index-list:c-index-sug"/>
+    <file name="map-u996.png" crc="4285053325" ref="p-index"/>
+    <file name="search-icon-2.png" crc="236131307" seo="true" ref="p-index:c-index"/>
+    <file name="home_blk.png" crc="431081926" seo="true" ref="p-index:c-index:c-index-list:c-index-sug"/>
+    <file name="bk_gry.png" crc="94632432" seo="true" ref="p-index:p-msg:p-noti:p-msg-rm:c-msg:c-msg-rm:c-noti:c-index:c-index-list:c-index-sug"/>
+    <file name="noti_gry.png" crc="4017450019" seo="true" ref="p-index:p-rec:p-msg:p-noti:p-rec-info:p-msg-rm:c-rec:c-rec-info:c-msg:c-msg-rm:c-index:c-index-list:c-index-sug"/>
+    <file name="msg_gry.png" crc="282715323" seo="true" ref="p-index:p-rec:p-noti:p-rec-info:c-rec:c-rec-info:c-noti:c-index:c-index-list:c-index-sug"/>
+    <file name="home_gry.png" crc="81142701" seo="true" ref="p-rec:p-msg:p-noti:p-rec-info:p-msg-rm:c-rec:c-rec-info:c-msg:c-msg-rm:c-noti"/>
+    <file name="iconnnnnnn.png" crc="4060204666" seo="true" ref="icon"/>
+    <file name="upload-icon-46097.png" crc="121203736" seo="true" ref="por"/>
+    <file name="55238.svg" crc="3894170270" ref="p-rec:p-msg:p-rec-info:p-msg-rm:c-rec:c-rec-info:c-msg:c-msg-rm"/>
+    <file name="55238_poster_.png" crc="317440585" ref="p-rec"/>
+    <file name="location.png" crc="3860329719" seo="true" ref="p-rec:p-msg:p-rec-info:p-msg-rm:c-rec:c-rec-info:c-msg:c-msg-rm"/>
+    <file name="u1380-4.png" crc="23874273" ref="p-rec"/>
+    <file name="duration-128.png" crc="3819644163" seo="true" ref="p-rec:p-rec-info:c-rec:c-rec-info"/>
+    <file name="u1427-4.png" crc="225398540" ref="p-rec"/>
+    <file name="u1383-4.png" crc="4112558593" ref="p-rec"/>
+    <file name="u1436-4.png" crc="339563475" ref="p-rec"/>
+    <file name="call-512.png" crc="4062501674" seo="true" ref="p-rec:p-rec-info:c-rec:c-rec-info"/>
+    <file name="msg_blk.png" crc="4163882248" seo="true" ref="p-rec:p-msg:p-rec-info:p-msg-rm:c-rec:c-rec-info:c-msg:c-msg-rm"/>
+    <file name="u1449-4.png" crc="3898693301" ref="p-rec"/>
+    <file name="u1459-4.png" crc="4265118620" ref="p-rec"/>
+    <file name="u1465-4.png" crc="23874273" ref="p-rec"/>
+    <file name="u1474-4.png" crc="225398540" ref="p-rec"/>
+    <file name="u1470-4.png" crc="4112558593" ref="p-rec"/>
+    <file name="u1477-6.png" crc="511125937" ref="p-rec"/>
+    <file name="u1480-4.png" crc="3898693301" ref="p-rec"/>
+    <file name="u1483-4.png" crc="4265118620" ref="p-rec"/>
+    <file name="u1539-4.png" crc="23874273" ref="p-rec"/>
+    <file name="u1548-4.png" crc="225398540" ref="p-rec"/>
+    <file name="u1544-4.png" crc="4112558593" ref="p-rec"/>
+    <file name="u1551-4.png" crc="262303972" ref="p-rec"/>
+    <file name="u1554-4.png" crc="3898693301" ref="p-rec"/>
+    <file name="u1557-4.png" crc="4265118620" ref="p-rec"/>
+    <file name="u1616-4.png" crc="23874273" ref="p-rec"/>
+    <file name="u1625-4.png" crc="225398540" ref="p-rec"/>
+    <file name="u1621-4.png" crc="4112558593" ref="p-rec"/>
+    <file name="u1628-4.png" crc="239518382" ref="p-rec"/>
+    <file name="call_gry.png" crc="504151165" seo="true" ref="p-rec:c-rec"/>
+    <file name="u1631-4.png" crc="350339908" ref="p-rec"/>
+    <file name="u1634-4.png" crc="217065826" ref="p-rec"/>
+    <file name="booking-list-checkpoint-order-512.png" crc="3895621752" seo="true" ref="p-rec:p-rec-info:c-rec:c-rec-info"/>
+    <file name="u1226-4.png" crc="409336849" ref="p-msg"/>
+    <file name="u1230-4.png" crc="3836587649" ref="p-msg"/>
+    <file name="u1254-4.png" crc="47260445" ref="p-msg"/>
+    <file name="circle-detail-more-icon-22.png" crc="169406113" seo="true" ref="p-msg:p-msg-rm:c-msg:c-msg-rm"/>
+    <file name="u1268-4.png" crc="409336849" ref="p-msg"/>
+    <file name="u1267-4.png" crc="3836587649" ref="p-msg"/>
+    <file name="u1270-4.png" crc="47260445" ref="p-msg"/>
+    <file name="u1311-4.png" crc="409336849" ref="p-msg"/>
+    <file name="u1308-4.png" crc="3836587649" ref="p-msg"/>
+    <file name="u1309-4.png" crc="47260445" ref="p-msg"/>
+    <file name="u1345-4.png" crc="384290611" ref="p-msg"/>
+    <file name="u1873-4.png" crc="23874273" ref="p-rec-info"/>
+    <file name="u1892-4.png" crc="4112558593" ref="p-rec-info"/>
+    <file name="u1891-4.png" crc="225398540" ref="p-rec-info"/>
+    <file name="u1876-4.png" crc="3865606794" ref="p-rec-info"/>
+    <file name="u1858-4.png" crc="3898693301" ref="p-rec-info"/>
+    <file name="u1857-4.png" crc="4265118620" ref="p-rec-info"/>
+    <file name="u1963-4.png" crc="145157719" ref="p-rec-info"/>
+    <file name="u1966-4.png" crc="3778548381" ref="p-rec-info"/>
+    <file name="u1960-4.png" crc="4176317183" ref="p-rec-info"/>
+    <file name="map477x407.jpg" crc="3884686316" seo="true" ref="p-rec-info"/>
+    <file name="u1975-4.png" crc="3780027248" ref="p-rec-info"/>
+    <file name="u1978-4.png" crc="3893444645" ref="p-rec-info"/>
+    <file name="u1984-4.png" crc="81526167" ref="p-rec-info"/>
+    <file name="check.png" crc="529027225" seo="true" ref="p-rec-info:c-rec-info"/>
+    <file name="u2000-4.png" crc="520075153" ref="p-rec-info"/>
+    <file name="u2006-4.png" crc="3987585462" ref="p-rec-info"/>
+    <file name="u2028-4.png" crc="4044131199" ref="p-rec-info"/>
+    <file name="u2003-4.png" crc="90550531" ref="p-rec-info"/>
+    <file name="u2019-4.png" crc="61657468" ref="p-rec-info"/>
+    <file name="scroll.jpg" crc="4141486713" seo="true" ref="p-msg-rm:c-msg-rm"/>
+    <file name="u2329-4.png" crc="17169682" ref="p-msg-rm"/>
+    <file name="u2328-4.png" crc="4133288629" ref="p-msg-rm"/>
+    <file name="u2331-4.png" crc="132073659" ref="p-msg-rm"/>
+    <file name="multy-user.png" crc="211980063" seo="true" ref="c-rec:c-rec-info:c-msg:c-msg-rm:c-noti:c-index:c-index-list:c-index-sug"/>
+    <file name="u2566-4.png" crc="23874273" ref="c-rec"/>
+    <file name="u2584-4.png" crc="225398540" ref="c-rec"/>
+    <file name="u2585-4.png" crc="4112558593" ref="c-rec"/>
+    <file name="u2569-4.png" crc="339563475" ref="c-rec"/>
+    <file name="u2551-4.png" crc="3898693301" ref="c-rec"/>
+    <file name="u2550-4.png" crc="4265118620" ref="c-rec"/>
+    <file name="u2544-4.png" crc="23874273" ref="c-rec"/>
+    <file name="u2529-4.png" crc="225398540" ref="c-rec"/>
+    <file name="u2607-4.png" crc="4112558593" ref="c-rec"/>
+    <file name="u2611-6.png" crc="511125937" ref="c-rec"/>
+    <file name="u2514-4.png" crc="3898693301" ref="c-rec"/>
+    <file name="u2597-4.png" crc="4265118620" ref="c-rec"/>
+    <file name="u2560-4.png" crc="23874273" ref="c-rec"/>
+    <file name="u2561-4.png" crc="225398540" ref="c-rec"/>
+    <file name="u2541-4.png" crc="4112558593" ref="c-rec"/>
+    <file name="u2604-4.png" crc="262303972" ref="c-rec"/>
+    <file name="u2549-4.png" crc="3898693301" ref="c-rec"/>
+    <file name="u2520-4.png" crc="4265118620" ref="c-rec"/>
+    <file name="u2509-4.png" crc="23874273" ref="c-rec"/>
+    <file name="u2508-4.png" crc="225398540" ref="c-rec"/>
+    <file name="u2567-4.png" crc="4112558593" ref="c-rec"/>
+    <file name="u2528-4.png" crc="239518382" ref="c-rec"/>
+    <file name="u2532-4.png" crc="350339908" ref="c-rec"/>
+    <file name="u2507-4.png" crc="217065826" ref="c-rec"/>
+    <file name="u2794-4.png" crc="23874273" ref="c-rec-info"/>
+    <file name="u2755-4.png" crc="4112558593" ref="c-rec-info"/>
+    <file name="u2784-4.png" crc="225398540" ref="c-rec-info"/>
+    <file name="u2779-4.png" crc="3865606794" ref="c-rec-info"/>
+    <file name="u2754-4.png" crc="3898693301" ref="c-rec-info"/>
+    <file name="u2801-4.png" crc="4265118620" ref="c-rec-info"/>
+    <file name="u2735-4.png" crc="145157719" ref="c-rec-info"/>
+    <file name="u2767-4.png" crc="3778548381" ref="c-rec-info"/>
+    <file name="u2793-4.png" crc="4176317183" ref="c-rec-info"/>
+    <file name="u2768-4.png" crc="3780027248" ref="c-rec-info"/>
+    <file name="u2736-4.png" crc="3893444645" ref="c-rec-info"/>
+    <file name="u2745-4.png" crc="81526167" ref="c-rec-info"/>
+    <file name="u2797-4.png" crc="520075153" ref="c-rec-info"/>
+    <file name="u2799-4.png" crc="3987585462" ref="c-rec-info"/>
+    <file name="u2802-4.png" crc="4044131199" ref="c-rec-info"/>
+    <file name="u2780-4.png" crc="90550531" ref="c-rec-info"/>
+    <file name="u2786-4.png" crc="61657468" ref="c-rec-info"/>
+    <file name="u2901-4.png" crc="409336849" ref="c-msg"/>
+    <file name="u2909-4.png" crc="3836587649" ref="c-msg"/>
+    <file name="u2903-4.png" crc="47260445" ref="c-msg"/>
+    <file name="u2928-4.png" crc="409336849" ref="c-msg"/>
+    <file name="u2929-4.png" crc="3836587649" ref="c-msg"/>
+    <file name="u2926-4.png" crc="47260445" ref="c-msg"/>
+    <file name="u2947-4.png" crc="409336849" ref="c-msg"/>
+    <file name="u2954-4.png" crc="3836587649" ref="c-msg"/>
+    <file name="u2953-4.png" crc="47260445" ref="c-msg"/>
+    <file name="u2957-4.png" crc="384290611" ref="c-msg"/>
+    <file name="u3084-4.png" crc="17169682" ref="c-msg-rm"/>
+    <file name="u3081-4.png" crc="4133288629" ref="c-msg-rm"/>
+    <file name="u3090-4.png" crc="132073659" ref="c-msg-rm"/>
+    <file name="noti_blk.png" crc="3998301064" seo="true" ref="c-noti"/>
+    <file name="map-u3246.png" crc="4285053325" ref="c-index"/>
+    <file name="dsc08819.jpg" crc="4240883473" seo="true" ref="c-index-list:c-index-sug"/>
+    <file name="blank.gif" crc="4208392903" ref="c-index-list:c-index-sug"/>
+    <file name="dsc08662.jpg" crc="4042543004" seo="true" ref="c-index-list:c-index-sug"/>
+    <file name="dsc08602.jpg" crc="3936949223" seo="true" ref="c-index-list:c-index-sug"/>
+    <file name="loading.gif" crc="3815509949" ref="c-index-list:c-index-sug"/>
+    <file name="u3486.png" crc="3861308629" ref="c-index-list"/>
+    <file name="u3486-r.png" crc="3861308629" ref="c-index-list"/>
+    <file name="tickicon.png" crc="257503991" seo="true" ref="c-index-list"/>
+    <file name="u3632.png" crc="3861308629" ref="c-index-list"/>
+    <file name="u3632-r.png" crc="3861308629" ref="c-index-list"/>
+    <file name="u3773.png" crc="3861308629" ref="c-index-list"/>
+    <file name="u3773-r.png" crc="3861308629" ref="c-index-list"/>
+    <file name="loading_icon.gif" crc="456186945" seo="true" ref="c-index-sug"/>
+    <file name="u4251-4.png" crc="3849796301" ref="c-index-sug"/>
+    <file name="u4254-5.png" crc="3984550857" ref="c-index-sug"/>
+    <file name="u4156.png" crc="3861308629" ref="c-index-sug"/>
+    <file name="u4156-r.png" crc="3861308629" ref="c-index-sug"/>
+    <file name="u4264.png" crc="3771993760" ref="c-index-sug"/>
+    <file name="u4264-r.png" crc="276994357" ref="c-index-sug"/>
+    <file name="u4267.png" crc="3861308629" ref="c-index-sug"/>
+    <file name="u4267-r.png" crc="3861308629" ref="c-index-sug"/>
+    <file name="u4270.png" crc="3771993760" ref="c-index-sug"/>
+    <file name="u4270-r.png" crc="276994357" ref="c-index-sug"/>
+    <file name="u4279.png" crc="3861308629" ref="c-index-sug"/>
+    <file name="u4279-r.png" crc="3861308629" ref="c-index-sug"/>
+    <file name="u4282.png" crc="3771993760" ref="c-index-sug"/>
+    <file name="u4282-r.png" crc="276994357" ref="c-index-sug"/>
   </folder>
-  <file name="index.html" crc="394754692" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="sign-up.html" crc="3879823563" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="sign-in.html" crc="4038267838" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="event.html" crc="3808748121" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="forgotpw.html" crc="365496750" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="search.html" crc="3807023799" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="advsearch.html" crc="4260355640" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="studio.html" crc="3827793231" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="confirm.html" crc="126941319" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="payment.html" crc="74280619" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="done.html" crc="103578519" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="message.html" crc="4087882357" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="messagec.html" crc="4155657291" seo="true" mt="1467175099291" redirect="true"/>
-  <file name="setting.html" crc="9064460" seo="true" mt="1467175099096" redirect="true"/>
-  <file name="changepw.html" crc="50501616" seo="true" mt="1467175099096" redirect="true"/>
-  <file name="profile-setting.html" crc="3895283692" seo="true" mt="1467175099096" redirect="true"/>
-  <file name="create-event.html" crc="4120845821" seo="true" mt="1467175100173" redirect="true"/>
-  <file name="create-package.html" crc="3925268868" seo="true" mt="1467175100164" redirect="true"/>
-  <file name="eventman.html" crc="4053194976" seo="true" mt="1467175100169" redirect="true"/>
-  <file name="edit-event.html" crc="3807776943" seo="true" mt="1467175100166" redirect="true"/>
-  <file name="edit-package.html" crc="4006490286" seo="true" mt="1467175100168" redirect="true"/>
-  <file name="createeventsus.html" crc="4140725501" seo="true" mt="1467175100171" redirect="true"/>
-  <file name="createpacsus.html" crc="4265283678" seo="true" mt="1467175100175" redirect="true"/>
+  <file name="index.html" crc="225998104" seo="true" mt="1467627598624" redirect="true"/>
+  <file name="sign-in.html" crc="513530296" seo="true" mt="1467578267930" redirect="true"/>
+  <file name="sign-up.html" crc="164954666" seo="true" mt="1467605554194" redirect="true"/>
+  <file name="forget-pw.html" crc="3850021806" seo="true" mt="1467578267930" redirect="true"/>
+  <file name="p-index.html" crc="164030151" seo="true" mt="1467621697712" redirect="true"/>
+  <file name="p-rec.html" crc="399746565" seo="true" mt="1467621738057" redirect="true"/>
+  <file name="p-msg.html" crc="228672452" seo="true" mt="1467620864842" redirect="true"/>
+  <file name="p-noti.html" crc="4098237342" seo="true" mt="1467621715806" redirect="true"/>
+  <file name="forget-pw-s.html" crc="4021500951" seo="true" mt="1467604323351" redirect="true"/>
+  <file name="sms.html" crc="318199350" seo="true" mt="1467605541731" redirect="true"/>
+  <file name="icon.html" crc="173155570" seo="true" mt="1467607648198" redirect="true"/>
+  <file name="por.html" crc="260859738" seo="true" mt="1467607638932" redirect="true"/>
+  <file name="p-rec-info.html" crc="3882585047" seo="true" mt="1467621759439" redirect="true"/>
+  <file name="p-msg-rm.html" crc="3970064604" seo="true" mt="1467620864846" redirect="true"/>
+  <file name="c-rec.html" crc="4118642245" seo="true" mt="1467621254246" redirect="true"/>
+  <file name="c-rec-info.html" crc="167623330" seo="true" mt="1467621512099" redirect="true"/>
+  <file name="c-msg.html" crc="4233022972" seo="true" mt="1467621461035" redirect="true"/>
+  <file name="c-msg-rm.html" crc="3784439342" seo="true" mt="1467621528442" redirect="true"/>
+  <file name="c-noti.html" crc="298480827" seo="true" mt="1467621326526" redirect="true"/>
+  <file name="c-index.html" crc="3851815060" seo="true" mt="1467625387652" redirect="true"/>
+  <file name="c-index-list.html" crc="4083125181" seo="true" mt="1467627715583" redirect="true"/>
+  <file name="c-index-sug.html" crc="417709926" seo="true" mt="1467627419901" redirect="true"/>
 </manifest>
